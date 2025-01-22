@@ -9,4 +9,6 @@
 <br>
   -CSS
 <br>
-<img src="https://github.com/Rafaell-SSouza/Easy-Shopping-/blob/main/assets/Desktop.jpg?raw=true">
+<img width="200" align="left" src="https://github.com/Rafaell-SSouza/Easy-Shopping-/blob/main/assets/Mobile.jpg?raw=true" /> 
+<img width="700" height="415" align="right" src="https://github.com/Rafaell-SSouza/Easy-Shopping-/blob/main/assets/Desktop.jpg?raw=true" />
+
