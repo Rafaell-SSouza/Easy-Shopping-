@@ -5,9 +5,8 @@
 <br>
 <h2><b>Este projeto é de responsividade, onde o desafio foi programar a página para Desktop e Celular.</b></h2>
 <h2>Tecnologias utilizadas:</h2>
-  -HTML
-<br>
-  -CSS
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <br>
 <img width="200" align="left" src="https://github.com/Rafaell-SSouza/Easy-Shopping-/blob/main/assets/Mobile.jpg?raw=true" /> 
 <img width="700" height="415" align="right" src="https://github.com/Rafaell-SSouza/Easy-Shopping-/blob/main/assets/Desktop.jpg?raw=true" />
