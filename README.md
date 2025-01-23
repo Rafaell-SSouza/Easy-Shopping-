@@ -10,7 +10,7 @@
 <br>
 <br>
 <img width="200" align="left" src="https://github.com/Rafaell-SSouza/Easy-Shopping-/blob/main/assets/Mobile.jpg?raw=true" /> 
-<img width="600" height="415" top="0" align="right" src="https://github.com/Rafaell-SSouza/Easy-Shopping-/blob/main/assets/Desktop.jpg?raw=true" />
+<img width="590" height="415" top="0" align="right" src="https://github.com/Rafaell-SSouza/Easy-Shopping-/blob/main/assets/Desktop.jpg?raw=true" />
 <br>
 
 
